@@ -1,0 +1,12 @@
+{
+  "name": "branch-review",
+  "version": "0.1.0",
+  "description": "Pre-PR code review - reviews all changes on your branch vs main before creating a pull request",
+  "author": {
+    "name": "farmakan"
+  },
+  "repository": "https://github.com/farmakan/claude-plugins",
+  "license": "MIT",
+  "keywords": ["code-review", "git", "security", "bugs"],
+  "commands": "./commands/"
+}
